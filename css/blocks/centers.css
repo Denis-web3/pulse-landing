@@ -61,7 +61,7 @@
 	width: 21px;
 	height: 21px;
 	margin-left: auto;
-	background-image: url("/icons/arrow-link-icon.svg");
+	background-image: url("./icons/arrow-link-icon.svg");
 }
 
 .centers__hours {
